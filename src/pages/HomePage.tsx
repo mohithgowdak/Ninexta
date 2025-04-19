@@ -214,7 +214,7 @@ const HomePage: React.FC = () => {
           <div className="inline-flex items-center justify-center p-2 bg-blue-100 rounded-full text-blue-600 mb-4">
             <Sparkles className="w-6 h-6" />
           </div>
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Use AgentFinder?</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Use Ninexta ai?</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Find the perfect AI assistant for any task, with verified reviews and detailed information.
           </p>

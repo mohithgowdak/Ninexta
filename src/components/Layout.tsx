@@ -31,7 +31,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
               <Link to="/" className="flex items-center">
                 <BrainCircuit className={`h-8 w-8 ${scrolled || !isHomePage ? 'text-blue-600' : 'text-white'} transition-colors duration-300`} />
                 <span className={`ml-2 text-xl font-bold ${scrolled || !isHomePage ? 'text-gray-900' : 'text-white'} transition-colors duration-300`}>
-                  AgentFinder
+                  Ninexta ai
                 </span>
               </Link>
             </div>
@@ -124,7 +124,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <div className="flex justify-center md:justify-start">
               <Link to="/" className="flex items-center">
                 <BrainCircuit className="h-6 w-6 text-blue-600" />
-                <span className="ml-2 text-lg font-bold text-gray-900">AgentFinder</span>
+                <span className="ml-2 text-lg font-bold text-gray-900">Ninexta ai</span>
               </Link>
             </div>
             <div className="mt-8 md:mt-0 flex flex-col md:flex-row md:space-x-8 space-y-4 md:space-y-0 items-center">
@@ -136,7 +136,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           </div>
           <div className="mt-8 border-t border-gray-200 pt-8 flex flex-col items-center">
             <p className="text-sm text-gray-500">
-              &copy; 2025 AgentFinder. All rights reserved.
+              &copy; 2025 Nineta ai. All rights reserved.
             </p>
             <div className="mt-4 flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-gray-500">
